@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Hemanshu Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student, Operations"
   location         : "New Haven, CT"
-  employer         : "Yale University - School of Management"
+  employer         : "Yale School of Management"
   uri              : # URL
   email            : "hemanshu.das@yale.edu" 
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/hemanshudas/
+  linkedin         : hemanshudas
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
